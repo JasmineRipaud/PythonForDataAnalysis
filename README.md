@@ -18,6 +18,6 @@ MODELISATION
 
 
 After dividing the dataset in a training and a testing set, we apply our algorithms to determine which one is the best for predicting:
-We intend to use the Linear Regression, Logistic Regression and Random Forest Classifier.
+We intend to use the Linear Regression, Logistic Regression, Support Vector Regression and Random Forest Classifier.
 
-Conclusion : 
+Conclusion : Our results are distorted because of a bad implementation so the Linear Regression appears to be the best model but we can expect the Random Forest Classifier to actually be the best model.
